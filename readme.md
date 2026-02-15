@@ -1,2 +1,4 @@
-# before any changes
-1 initial stage;
+# after changes
+
+first commited
+now let me delete the next line
